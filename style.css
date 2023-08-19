@@ -1,0 +1,156 @@
+body {
+    background: #000000;
+    color: #fff;
+    font-family: 'Open Sans',sans-serif;
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+
+.profiledata {
+    padding: 20px;
+}
+
+.profile-name {
+    color: gray;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 20px;
+}
+
+.profile-name2 {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+}
+
+.profile-name3 {
+    color: gray;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 20px;
+}
+
+.profile-name3 span{
+    color: white;
+    font-weight: 500;
+}
+
+.links {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    border: solid white;
+    border-width: 1px;
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 12px;
+    font-size: 15px;
+}
+
+.links-instagram {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    border: solid white;
+    border-width: 0.5px;
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+    font-size: 15px;
+}
+
+.links-instagram :hover{
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    background: #833ab4;
+    background: -webkit-linear-gradient(to right,#fcb045,#fd1d1d,#833ab4);
+    background: linear-gradient(to right,#fcb045,#fd1d1d,#833ab4);
+    
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+    font-size: 15px;
+    color: white;
+}
+
+.links-mail {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    border: solid white;
+    border-width: 0.5px;
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+    font-size: 15px;
+}
+
+.links-mail :hover{
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    background: #870000;
+
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+    font-size: 15px;
+    color: white;
+}
+
+.links-linkedin {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    border: solid white;
+    border-width: 0.5px;
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+    font-size: 15px;
+}
+
+img {
+    border-radius: 50%;
+    padding: 15px;
+    width: 10%;
+}
+
+.profile-picture {
+    display: block;    
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    transition: color 1s; 
+  }
+
+  .copyright{
+    color: gray;
+  }
+
+  .bottom-text {
+    padding: 10px;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 15px;
+  }
+  
